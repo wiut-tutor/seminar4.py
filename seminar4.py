@@ -17,3 +17,4 @@ def encode(message):
 
 encoded_message=encode("AAAAAABBBBCCCCCC")
 print(encoded_message)
+# update
